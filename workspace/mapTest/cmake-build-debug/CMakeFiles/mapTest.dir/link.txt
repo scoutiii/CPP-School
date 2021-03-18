@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/mapTest.dir/main.cpp.o CMakeFiles/mapTest.dir/MAP.cpp.o  -o mapTest.exe -Wl,--out-implib,libmapTest.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

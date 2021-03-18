@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/d/CCode/CPP-School/workspace/mapTest/MAP.cpp
+MAP.hpp
+/cygdrive/d/CCode/CPP-School/workspace/mapTest/MAP.hpp
+iostream
+-
+cmath
+-
+unistd.h
+-
+termios.h
+-
+
+/cygdrive/d/CCode/CPP-School/workspace/mapTest/MAP.hpp
+
+/cygdrive/d/CCode/CPP-School/workspace/mapTest/main.cpp
+iostream
+-
+string
+-
+unistd.h
+-
+termios.h
+-
+MAP.hpp
+/cygdrive/d/CCode/CPP-School/workspace/mapTest/MAP.hpp
+
